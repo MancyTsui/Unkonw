@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/ztxtop/x/main/rewrite-zq.plugin
 
 中青看点阅读数据抓取Loon插件地址（QX开启解析器时可使用）：
 
-https://raw.githubusercontent.com/MancyTsui/Unkonw/main/zqread.plugin
+https://raw.githubusercontent.com/MancyTsui/Unkonw/main/zqread.js
 
 */
 
